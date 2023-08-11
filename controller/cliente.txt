@@ -1,0 +1,4 @@
+[{"id":0,"nome":"Martelo Pequeno","preco":"14.50"},
+{"id":"1","nome":"Chave de Fenda","preco":"8.99"},
+{"id":"2","nome":"Saco de Cimento","preco":"23.50"},
+{"id":"3","nome":"Alicate","preco":"15.00"}]
